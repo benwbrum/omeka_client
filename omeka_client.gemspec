@@ -26,4 +26,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "rest", "~> 2.6.3"
   spec.add_dependency "recursive-open-struct", "~> 0.4.3"
+  spec.add_dependency 'net-http-persistent', '~> 2.9.4'
 end
