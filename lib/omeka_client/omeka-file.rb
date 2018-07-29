@@ -1,5 +1,4 @@
 require "recursive_open_struct"
-require "pry"
 module OmekaClient
 
   #
